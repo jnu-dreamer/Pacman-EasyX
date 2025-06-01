@@ -38,7 +38,7 @@ void renderGame()
         EndBatchDraw();
         return;
     }
-   
+
     drawMap();
 
     int t = clock() / speed;

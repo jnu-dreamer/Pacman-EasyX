@@ -45,7 +45,6 @@ int main()
 		Input(); // 处理输入
 		updateGame(); // 更新游戏状态
 		renderGame(); // 渲染游戏画面
-
 		controlFPS(startTime); // 控制帧率
 		frame++;
 	}

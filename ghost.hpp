@@ -22,7 +22,6 @@ public:
     // 返回值是pair<int,int>，表示方向，例如：
     // 上(0,-1), 下(0,1), 左(-1,0), 右(1,0)
     // 如果找不到路径，返回 (0,0)
-
     pair<int, int> bfs(int playerX, int playerY) {
         // 将像素坐标转换为地图格子坐标
         int startRow = y / block_size;

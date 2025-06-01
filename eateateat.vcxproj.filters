@@ -29,25 +29,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="blue.png">
-      <Filter>资源文件</Filter>
-    </Image>
-    <Image Include="dead.png">
-      <Filter>资源文件</Filter>
-    </Image>
-    <Image Include="orange.png">
-      <Filter>资源文件</Filter>
-    </Image>
-    <Image Include="pacman.png">
-      <Filter>资源文件</Filter>
-    </Image>
-    <Image Include="pink.png">
-      <Filter>资源文件</Filter>
-    </Image>
-    <Image Include="red.png">
-      <Filter>资源文件</Filter>
-    </Image>
     <Image Include="pic\heart.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="pic\blue.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="pic\dead.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="pic\orange.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="pic\pacman.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="pic\pink.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="pic\red.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>

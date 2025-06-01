@@ -136,13 +136,13 @@
     <ClCompile Include="mover.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="blue.png" />
-    <Image Include="dead.png" />
-    <Image Include="orange.png" />
-    <Image Include="pacman.png" />
+    <Image Include="pic\blue.png" />
+    <Image Include="pic\dead.png" />
     <Image Include="pic\heart.png" />
-    <Image Include="pink.png" />
-    <Image Include="red.png" />
+    <Image Include="pic\orange.png" />
+    <Image Include="pic\pacman.png" />
+    <Image Include="pic\pink.png" />
+    <Image Include="pic\red.png" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="config.h" />
